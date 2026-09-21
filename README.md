@@ -1,1 +1,3 @@
-# CS-5530---Kai-Son
+Name: Kai (Kal) Son
+Student ID: 16401784
+Course: Principles of Data Science
